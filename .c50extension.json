@@ -1,0 +1,9 @@
+{
+  "assignment-name": "Tarefa Hello World",
+  "polling-interval-minutes": 5,
+  "notify-from-users": ["caburu"],
+  "support-links": {
+    "Slides da aula": "https://ufla-pasia.github.io/pasia-slides/aula_p1.html",
+    "Campus Virtual": "https://campusvirtual.ufla.br/presencial/enrol/index.php?id=67864"
+  }
+}
